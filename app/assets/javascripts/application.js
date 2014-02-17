@@ -37,6 +37,7 @@
 
 
   var wsUri = "wss://websocket-rails-example.herokuapp.com/websocket";
+  
   var websocket;
 
   function init()
