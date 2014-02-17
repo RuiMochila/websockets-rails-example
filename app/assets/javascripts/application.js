@@ -36,7 +36,7 @@
 	
 
 
-  var wsUri = "ws://localhost:3000/websocket";
+  var wsUri = "ws://websocket-rails-example.herokuapp.com/websocket";
   var websocket;
 
   function init()
